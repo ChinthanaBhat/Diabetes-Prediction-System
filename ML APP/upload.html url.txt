@@ -1,0 +1,6 @@
+<form action="{{ url_for('train') }}"method="POST" style="display:inline;">
+	    		<button type="submit">Train</button>
+	    </form>
+	    <form action="{{ url_for('predict') }}"style="display:inline;">
+	    		<button type="submit">Predict</button>
+	    </form>

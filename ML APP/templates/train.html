@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="container mt-5 text-center">
+	<h2 class="text-success">Training Successful</h2>
+	<p class="mt-3">Your model is now ready for Predictions.</p>
+
+	<form action="{{ url_for('predict') }}" method="GET" style="display: inline;">
+		<button type="submit">Predict</button>
+	</form>
+</div>
+{% endblock %}
