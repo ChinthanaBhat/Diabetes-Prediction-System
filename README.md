@@ -35,9 +35,9 @@ A machine learning project that predicts whether a person is at risk of developi
 ## Setup
 
 1. Clone the repository
-```bash
-   git clone https://github.com/<your-username>/diabetes-prediction-system.git
-   cd diabetes-prediction-system
+```bash://github.c
+   git clone https://github.com/ChinthanaBhat/Diabetes-Prediction-System.git
+   cd Diabetes-Prediction-System
 ```
 2. Install dependencies
 ```bash
