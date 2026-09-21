@@ -1,0 +1,11 @@
+flask
+flask-sqlalchemy
+flask-bcrypt
+pymysql
+cryptography
+pandas
+numpy
+scikit-learn==1.6.1
+joblib
+matplotlib
+seaborn
